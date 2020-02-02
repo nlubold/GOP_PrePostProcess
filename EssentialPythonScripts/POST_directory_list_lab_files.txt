@@ -1,0 +1,4 @@
+/home/nichola/Documents/Camille/RhythmStudy_Monologues/SegmentedAudio_LabFiles/speaker1
+/home/nichola/Documents/Camille/RhythmStudy_Monologues/SegmentedAudio_LabFiles/speaker10
+/home/nichola/Documents/Camille/RhythmStudy_Monologues/SegmentedAudio_LabFiles/speaker11
+/home/nichola/Documents/Camille/RhythmStudy_Monologues/SegmentedAudio_LabFiles/speaker13
